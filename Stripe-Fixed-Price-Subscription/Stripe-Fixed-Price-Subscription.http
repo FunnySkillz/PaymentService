@@ -1,0 +1,6 @@
+@Stripe_Fixed_Price_Subscription_HostAddress = http://localhost:5043
+
+GET {{Stripe_Fixed_Price_Subscription_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

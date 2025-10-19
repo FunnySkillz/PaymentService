@@ -1,0 +1,7 @@
+{
+  "Stripe": {
+    "SecretKey": "sk_...set-in-user-secrets-or-env...",
+    "PublishableKey": "pk_...client-only...",
+    "WebhookSecret": "whsec_...set-in-user-secrets..."
+  }
+}
